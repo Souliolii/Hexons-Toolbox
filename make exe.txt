@@ -1,0 +1,6 @@
+python -m PyInstaller ^
+  --noconfirm ^
+  --onefile ^
+  --windowed ^
+  --name "Hexons Toolbox" ^
+  maple_tools_launcher.py
