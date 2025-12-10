@@ -15,3 +15,10 @@ https://github.com/Souliolii/Quest-Cloner-v83/releases
 https://github.com/Souliolii/WZ-Image-Viewer/releases/tag/exe
 
 https://github.com/Souliolii/WZ-Image-Flattener/releases
+
+
+Also, I do not own and did not commit anything to HaRepacker, I have simply included it in this release to make things easier.
+
+https://github.com/lastbattle/Harepacker-resurrected
+
+That is their github, give them praise.
